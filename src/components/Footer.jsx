@@ -95,7 +95,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-          &copy; 2024 All rights reserved || Made with ❤️ by TCJ
+          &copy; 2024 All rights reserved || Made with ❤️ by Srishti Aggarwal
         </div>
       </div>
     </div>
